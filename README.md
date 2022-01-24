@@ -1,2 +1,2 @@
 # bineshshah.com.np-theme
-WordPress custom theme for bineshshah.com.np
+WordPress custom theme for http://bineshshah.com.np/
